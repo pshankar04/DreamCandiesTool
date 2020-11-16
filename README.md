@@ -24,5 +24,11 @@ The respective CSV file (sales.csv) was found on the Kaggle.com and was preproce
    
 The sales data has around 2800 records and the code will extract customer and invoice data for 50 selected customers (out of 92).Code will work for 1000 selected customers input through the 'customers_sample1.csv' file. 
 
+The successful execution of the code will create 3 CSV files:
+
+1. extracted_customer.csv
+2. extracted_invoice.csv
+3. extracted_invoice_item.csv
+
 The code is simple and easy to understand with comments.
    
