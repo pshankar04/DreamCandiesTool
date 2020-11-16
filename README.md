@@ -3,6 +3,8 @@
 
 The attached project is created using Java on Eclipse IDE.
 
+Please run 'ExtractCustomerInvoice.java' to see the extracted information in 3 different CSV files.
+
 The respective CSV file (sales.csv) was found on the Kaggle.com and was preprocessed to match the needs of the project. The other supporting files are as listed below:
 
 1. customer_sample1.csv
@@ -24,7 +26,7 @@ The respective CSV file (sales.csv) was found on the Kaggle.com and was preproce
    
 The sales data has around 2800 records and the code will extract customer and invoice data for 50 selected customers (out of 92).Code will work for 1000 selected customers input through the 'customers_sample1.csv' file. 
 
-The successful execution of the code will create 3 CSV files:
+The successful execution of the project will create 3 CSV files:
 
 1. extracted_customer.csv
 2. extracted_invoice.csv
